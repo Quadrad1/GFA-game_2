@@ -1,0 +1,18 @@
+/*slider*/
+.slider {
+  width: 60%;
+  height: 350px;
+  border-bottom: 5px solid #ffffff; }
+  .slider__slide {
+    display: flex;
+    width: 100%;
+    height: 350px; }
+  .slider__slide-img-cont {
+    width: 100%;
+    height: 350px;
+    display: flex; }
+  .slider__slide-img-cont img {
+    max-height: 350px;
+    margin: auto; }
+
+/*END slider*/
